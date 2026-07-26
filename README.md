@@ -19,11 +19,11 @@
       </li> 
       <li> 
         <a href="#lab-architecture">Lab Architecture</a>
-        <ol>
-          <a href=#network-topology">2.1 Network Topology</a>
-          <a href=#data-flow">2.2 Data Flow</a>
-          <a href=#homelab-infrastructure">2.3 Homelab Infrastructure</a>
-        </ol>
+        <ul>
+          <li><a href=#network-topology">Network Topology</a></li>
+          <li><a href=#data-flow">Data Flow</a></li>
+          <li><a href=#homelab-infrastructure">Homelab Infrastructure</a></li>
+        </ul>
       </li>
       <li>  
         <a href="#why-i-built-this">Why I Built This</a>
