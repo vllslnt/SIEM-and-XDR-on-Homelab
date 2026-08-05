@@ -1,0 +1,3 @@
+# Linux high speed capture support
+af-packet:
+  - interface: <active network interface>
